@@ -21,7 +21,7 @@ This picture is stored on Google. Cloudinary takes the image  and changes the re
 Below is a great pic by Dawson.
 Photo by <a href="https://unsplash.com/@dawson_m?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dawson McCormick</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-![colors](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/colors-another-planet.jpg)
+![colors](https://applegate-paul.mo.cloudinary.net/proxy/https://storage.googleapis.com/cloudinarymedia/images/colors-another-planet.jpg)
 
 
 
