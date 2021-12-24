@@ -16,7 +16,14 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 This picture is stored on Google. Cloudinary takes the image  and changes the resolution and quality to fit the user's browser. If they are on a phone they get a small version. If they are on a laptop or a desktop computer they get a larger size.
 
-![A squirrel on a mountain](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/Squirrel-mountaintop.jpg)
+![A squirrel on a mountain](https://applegate-paul.mo.cloudinary.net/11ty/https://storage.googleapis.com/cloudinarymedia/images/Squirrel-mountaintop.jpg)
+
+Below is a great pic by Dawson.
+Photo by <a href="https://unsplash.com/@dawson_m?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dawson McCormick</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+![colors](https://applegate-paul.mo.cloudinary.net/11ty/https://storage.googleapis.com/cloudinarymedia/images/colors-another-planet.jpg)
+
+
 
 
 ## Section Header
